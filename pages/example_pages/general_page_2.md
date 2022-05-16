@@ -24,7 +24,7 @@ training:
   - name: Training in Zenodo
     registry: Zenodo
     url: https://tess.elixir-europe.org/
-  - name: Training on Youtube
+  - name: Training in Youtube
     registry: Youtube
     url: https://tess.elixir-europe.org/
   - name: Training in The Carpentries
